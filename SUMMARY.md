@@ -60,7 +60,6 @@
 +   [Meta 数据库工程师笔记](docs/meta-db-engi/README.md)
 +   [Meta 前端开发笔记](docs/meta-fe-dev/README.md)
 +   [MikeShah OpenGL 笔记](docs/mike-shah-ogl/README.md)
-+   [MIT 黑客工具笔记](docs/mit-hkrtl/README.md)
 +   [mycodeschool 数据结构笔记](docs/mycodeschool-dast/README.md)
 +   [NetNinja Git 入门笔记](docs/net-ninja-git-intro/README.md)
 +   [NybblesIO x86 汇编笔记](docs/nybbles-x86asm/README.md)
