@@ -1,3 +1,4 @@
++   [AbdulBari 算法导论笔记](docs/abdulbari-algo-intro/README.md)
 +   [ACCU 2024 笔记](docs/accu-2024/README.md)
 +   [Unix 环境高级编程笔记](docs/apue/README.md)
 +   [ArgoCon EU 2025 笔记](docs/argocon-eu-2025/README.md)
