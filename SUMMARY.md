@@ -35,6 +35,7 @@
 +   [EDUCBA Swift 滑动匹配 IOS 应用开发笔记](docs/educba-swipe-match-iosapp-swift/README.md)
 +   [EngineeringClinic 网络模拟器 3 教程笔记](docs/engi-clnc-netsimu3/README.md)
 +   [FAST 存储大会 2025 笔记](docs/fast25/README.md)
++   [FreeCodeCamp C 编程初学者笔记](docs/fcc-c-prog-bgn/README.md)
 +   [FPGA 入门笔记](docs/fpga-intro/README.md)
 +   [谷歌 IT 支持笔记](docs/ggl-it-spt/README.md)
 +   [谷歌项目管理 I 笔记](docs/ggl-pjmgt-1/README.md)
