@@ -68,6 +68,7 @@
 +   [NybblesIO x86 汇编笔记](docs/nybbles-x86asm/README.md)
 +   [PavelMavrin 数据结构算法笔记](docs/pavel-mavrin-dsal/README.md)
 +   [Python 完全入门笔记](docs/py-cmpl-intro/README.md)
++   [Python FastAPI 完全教程笔记](docs/py-fapi-cmpl-tut/README.md)
 +   [Python 和 LLVM 编程语言创建笔记](docs/py-llvm-crt-pl/README.md)
 +   [Python Streamlit 教程笔记](docs/py-stlt-tut/README.md)
 +   [PyCon 2017 会议笔记](docs/pycon-2017/README.md)
