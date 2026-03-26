@@ -59,6 +59,7 @@
 +   [LLVMCon 2024 笔记](docs/llvmcon-2024/README.md)
 +   [LLVMCon EU 2025 笔记](docs/llvmcon-eu-2025/README.md)
 +   [LLVMCon US 2025 笔记](docs/llvmcon-us-2025/README.md)
++   [现代 CUDA C++ 编程 2025 笔记](docs/mdn-cuda-cpp-prog-2025/README.md)
 +   [Meta 后端开发笔记](docs/meta-be-dev/README.md)
 +   [Meta 数据库工程师笔记](docs/meta-db-engi/README.md)
 +   [Meta 前端开发笔记](docs/meta-fe-dev/README.md)
