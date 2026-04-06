@@ -93,6 +93,7 @@
 +   [Sriniously 第一性原理后端开发笔记](docs/sriniously-be-1stprcp/README.md)
 +   [Udemy 从零开始的 ARM 笔记](docs/udemy-arm-scr/README.md)
 +   [VictorGordan OpenGL 笔记](docs/victor-gordan-ogl/README.md)
++   [VitorMazuco Linux 命令行基础笔记](docs/vitor-mazuco-linux-cli-bsc/README.md)
 +   [WasmCon 2024 笔记](docs/wasmcon-2024/README.md)
 +   [WilliamFiset 数据结构笔记](docs/william-fiset-dast/README.md)
 +   [编写 MSDOS 系统笔记](docs/wrt-msdos-sys/README.md)
