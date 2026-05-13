@@ -7,6 +7,7 @@
 +   [Bash 基础笔记](docs/bash-bsc/README.md)
 +   [从零开始编写 C 语言游戏笔记](docs/c-gm-scr/README.md)
 +   [CCIE/CCNA/CCNP 笔记](docs/ccie-ccna-ccnp/README.md)
++   [电脑爱好者](docs/cfan/README.md)
 +   [CKA/CKAD/CKS 笔记](docs/cka-ckad-cks/README.md)
 +   [CoffeeBeforeArch C++ 入门笔记](docs/coffeebeforearch-cpp-intro/README.md)
 +   [计算机网络：自顶向下方法笔记](docs/comp-net-tdm/README.md)
